@@ -2,7 +2,7 @@ let img;
 
 // Load the image.
 function preload() {
-  img = loadImage('/images/resist_this_image.png');
+  img = loadImage('images/resist_this_image.png');
 }
 
 
